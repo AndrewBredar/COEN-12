@@ -1,4 +1,8 @@
 /*
+Andy Bredar
+COEN12
+/*
+
 *runtime 1: O(n^2) [slowest]
 *runtime 2: O(log(n)) [fastest]
 *runtime 3: O(n)   [linear]
