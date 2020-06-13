@@ -1,8 +1,6 @@
 /*
  * File:	list.h
- *
- * Copyright:	2020, Darren C. Atkinson
- *
+
  * Description:	This file contains the public function and type
  *		declarations for a list abstract data type for generic
  *		pointer types.  The list supports deque operations, in
