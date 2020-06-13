@@ -1,3 +1,9 @@
+/*
+ * Andy Bredar
+ * COEN 12
+ * 4-18-20
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <assert.h>

@@ -1,3 +1,8 @@
+/*Andy Bredar
+ * COEN 12
+ * 4-6-20
+ */
+
 #include <stdio.h>
 
 #define MAX_WORD_LENGTH 30
