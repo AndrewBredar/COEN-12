@@ -1,4 +1,4 @@
-# COEN-12
+# COEN-12 (Abstract Data Structures and an Introduction to Algorithms)
 Abstract Data Structures and Data Types in C
 
 Hello there! This repository contains the projects I created during my abstract data structures class (COEN-12) in the spring of 2020.
